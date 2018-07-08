@@ -10,4 +10,6 @@ The very beginning of a game I'm developing using Phaser 3. You can move to the 
   
   #Lessons Learned:
   
+  Tools: Phaser, JavaScript
+  
   When making a game, you have to host it. I was having the hardest time getting this to display in my browser at first. I gave in and asked a buddy of mine for a quick set of eyes, and he instantly handed me the solution that was right under my nose. Host your games guys.
