@@ -14,10 +14,10 @@ Check it out!!: https://keiththedev.github.io/gamePart1/
 
 # How it's made:
 
+Tools: Phaser, JavaScript
+
   First I had to create an environment for my game giving it functions like gravity and velocity. Then start insterting images to display things like, characters, backgrounds, etc. Once everything is set I started working on moving my characters.
   
   # Lessons Learned:
-  
-  Tools: Phaser, JavaScript
   
   When making a game, you have to host it. I was having the hardest time getting this to display in my browser at first. I gave in and asked a buddy of mine for a quick set of eyes, and he instantly handed me the solution that was right under my nose. Host your games guys.
