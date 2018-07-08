@@ -2,7 +2,7 @@
 
 The very beginning of a game I'm developing using Phaser 3. You can move to the left to the right and explode into multiple copies, in a push of a button. 
 
-Controls:
+# Controls:
 
 Hold "A" to move left.
 Press "D" to move right.
