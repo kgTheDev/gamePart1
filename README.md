@@ -7,6 +7,7 @@ The very beginning of a game I'm developing using Phaser 3. You can move to the 
 Hold "A" to move left.
 Press "D" to move right.
 Tap "P" rapidly for your special move.
+Click anywhere on the game screen to move player.
 
 Check it out!!: https://keiththedev.github.io/gamePart1/
 
